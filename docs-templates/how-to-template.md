@@ -17,7 +17,7 @@ To provide feedback on this template contact [bace feedback](mailto:templateswg@
 
 # [H1 heading here]
 
-<!--2. Introductory paragraph. Required. Lead with a light intro that describes, in customer-friendly language, what the customer will learn, or do, or accomplish. Answer the fundamental “why would I want to do this?” question. Keep it short.-->
+<!--2. Introductory paragraph. Lead with a light intro that describes, in customer-friendly language, what the customer will learn, or do, or accomplish. Answer the fundamental “why would I want to do this?” question. Keep it short.-->
 
 [Add your introductory paragraph]
 
