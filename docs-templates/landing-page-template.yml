@@ -1,0 +1,69 @@
+### YamlMime:Landing
+
+# This template provides the basic structure of a landing page.
+# See the [landing-page guidance](filename-to-be-determined.md) in the contributor guide.
+
+# To provide feedback on this template contact [to-be-determined](mailto:whom@microsoft.com)
+
+# Replace text in ALL CAPS with the appropriate value.
+# Remove all comments in this template before you sign off or merge to the main branch.
+
+title: CAPABILITY OR FEATURE in PRODUCT OR SERVICE # Required; heading that appears at the top of the page
+summary: # Required; introductory paragraph that follows the title and summarizes how the capability or feature benefits the customer
+
+# The following metadata is required.
+# Metadata notes: https://review.docs.microsoft.com/en-us/help/contribute/metadata-overview?branch=main
+
+metadata:
+  title: Help hub # Required; appears in topic TOC; don't change
+  description: Help hub with key links for CAPABILITY OR FEATURE. # Required; note, full sentence that ends with a period
+  author: GITHUB ALIAS # Required; GitHub user alias, with correct capitalization
+  ms.author: MICROSOFT ALIAS # Required
+  ms.date: 01/01/2022 # Required; in mm-dd-yyyy format
+
+  ms.topic: landing-page # Required; don't change
+  ms.custom: template-landing-page # Required; don't change
+
+  ms.prod: # Use ms.prod for on-premises products, ms.service for cloud services; remove the one you don't use
+  ms.service:
+  ms.subservice: # Required if you provide a value for ms.service
+
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+# Replace TEXT and URLs as needed
+
+# linkListType: concept | deploy | download | get-started | how-to-guide | overview | reference | sample | video | whats-new
+
+landingContent:
+  - title: Meet CAPABILITY OR FEATURE
+    linkLists:
+    - linkListType: overview
+      links:
+      - text: Product overview
+        url: overview.md
+      - text: New and updated features
+        url: whats-new.md
+      - text: Release plans
+        url: /dynamics365/release-plans/
+    - linkListType: learn
+      links:
+        - text: CAPABILITY OR FEATURE learning path
+          url: /learn/paths/build-customer-insights/
+
+  - title: Get started
+    linkLists:
+    - linkListType: get-started
+      links:
+        - text: Quick-start guide
+          url: get-started.md
+        - text: Terms and concepts
+          url: glossary.md
+
+  - title: DO SOMETHING WITH SOMETHING
+    linkLists:
+    - linkListType: how-to-guide
+      links:
+        - text:
+          url:
+        - text:
+          url:
