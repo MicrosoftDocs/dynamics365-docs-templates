@@ -1,15 +1,15 @@
 ### YamlMime:Landing
 
 # This template provides the basic structure of a landing page.
-# See the [landing-page guidance](filename-to-be-determined.md) in the contributor guide.
+# See [Write a landing page](write-a-landing-page.md) in the contributor guide.
 
-# To provide feedback on this template contact [to-be-determined](mailto:whom@microsoft.com)
+# To provide feedback on this template contact [bace feedback team](mailto:templateswg@microsoft.com).
 
 # Replace text in ALL CAPS with the appropriate value.
 # Remove all comments in this template before you sign off or merge to the main branch.
 
 title: CAPABILITY OR FEATURE in PRODUCT OR SERVICE # Required; heading that appears at the top of the page
-summary: # Required; introductory paragraph that follows the title and summarizes how the capability or feature benefits the customer
+summary: <!--- Required; --> Introductory paragraph that follows the title and summarizes how the capability or feature benefits the customer
 
 # The following metadata is required.
 # Metadata notes: https://review.docs.microsoft.com/en-us/help/contribute/metadata-overview?branch=main
@@ -19,6 +19,7 @@ metadata:
   description: Help hub with key links for CAPABILITY OR FEATURE. # Required; note, full sentence that ends with a period
   author: GITHUB ALIAS # Required; GitHub user alias, with correct capitalization
   ms.author: MICROSOFT ALIAS # Required
+  ms.reviewer: #Required; microsoft alias of content publishing team member.
   ms.date: 01/01/2022 # Required; in mm-dd-yyyy format
 
   ms.topic: landing-page # Required; don't change
@@ -63,7 +64,7 @@ landingContent:
     linkLists:
     - linkListType: how-to-guide
       links:
-        - text:
-          url:
-        - text:
-          url:
+        - text: Title
+          url: File name
+        - text: Title
+          url: File name
