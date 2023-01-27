@@ -19,7 +19,6 @@ metadata:
   ms.date: 
   ms.topic: landing-page # DON'T CHANGE
   ms.prod:  # Use ms.prod for on-premises products, ms.service for cloud services; remove the one you don't use
-  ms.service: 
   ms.subservice:  # Required if you provide a value for ms.service
   ms.custom: bap-template #Required; don't change.
 

@@ -4,7 +4,6 @@ description: Overview description #Required; article description that's displaye
 author: rhanajoy #Required; your GitHub user alias, with correct capitalization. 
 ms.author: rhcassid #Required; your Microsoft alias; optional team alias. 
 ms.reviewer: kfend #Required; Microsoft alias of content publishing team member.
-ms.service: dynamics-365 #Required; per approved Microsoft taxonomy (https://taxonomy.docs.microsoft.com/TaxonomyServiceAdminPage/#/taxonomy/detail/2022-04-07T09:00:02.5587920Z!a892accc-6925-4c06-8723-fb5e30ba7ca3/product).
 ms.topic: overview #Required; don't change.
 ms.date: 08/10/2022 #Required; mm/dd/yyyy format.
 ms.custom: bap-template #Required; don't change.
