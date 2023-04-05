@@ -5,6 +5,7 @@ author: rhanajoy #Required; your GitHub user alias, with correct capitalization.
 ms.author: rhcassid #Required; your Microsoft alias; optional team alias. 
 ms.reviewer: kfend #Required; Microsoft alias of content publishing team member.
 ms.topic: troubleshooting #Required; don't change.
+ms.collection:  #Required; The values for this attribute will be updated over time. For now, leave this value blank.
 ms.date: 08/10/2022 #Required; mm/dd/yyyy format.
 ms.custom: bap-template #Required; don't change.
 ---
