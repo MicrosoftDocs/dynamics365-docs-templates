@@ -5,7 +5,7 @@
 
 # Remove all comments and capitalized text in this template before you sign off or merge to the main branch
 
-title:  <product name> documentation # < 60 chars
+title: <product name> documentation # < 60 chars
 summary: Start with "Learn how to...." and explain what users will learn from your documentation # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
 brand: dynamics
