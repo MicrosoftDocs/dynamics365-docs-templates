@@ -114,8 +114,8 @@ Examples:
 
 This solution is a generalized architecture pattern, which can be used for many different scenarios and industries. See the following example solutions that build off of this core architecture:
 
-- [Link to first solution idea or other architecture that builds off this solution](filepath.yml)
-- [Second solution idea that builds off this solution](filepath.yml)
+- [Link to first solution idea or other architecture that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
+- [Second solution idea that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
 
 *Include additional links to Dynamics 365 or Power Platform guidance, or Azure Architecture Center articles. Here is an example:*
 

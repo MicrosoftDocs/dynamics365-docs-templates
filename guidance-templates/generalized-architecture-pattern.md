@@ -7,7 +7,7 @@ ms.subservice: guidance #Required. Leave as-is.
 ms.topic: conceptual #Required. Leave as-is.
 ms.custom: bap-template #Required; Leave as-is.
 author: #Required; your GitHub user alias, with correct capitalization. 
-ms.date: 06/16/2023
+ms.date: 08/22/2023
 ---
 
 # Article title as a noun phrase
@@ -29,8 +29,8 @@ ms.date: 06/16/2023
 
 This solution is a generalized architecture pattern, which can be used for many different scenarios and industries. See the following example solutions that build off of this core architecture:
 
-- [Link to first solution idea or other architecture that builds off this solution](filepath.yml)
-- [Second solution idea that builds off this solution](filepath.yml)
+- [Link to first solution idea or other architecture that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
+- [Second solution idea that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
 
 ## Architecture
 
@@ -72,8 +72,8 @@ Download a [PowerPoint file](https://github.com/microsoft/dynamics365patternspra
 
 The following alternative solutions provide scenario-focused lenses to build off of this core architecture:  
 
-- [Link to first solution idea or other architecture that builds off this solution](filepath.md)
-- [Second solution idea that builds off this solution](filepath.md)
+- [Link to first solution idea or other architecture that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
+- [Second solution idea that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
 
 ## Scenario details
 
@@ -93,7 +93,7 @@ The following alternative solutions provide scenario-focused lenses to build off
 
 *REQUIRED STATEMENT: Include the following statement to introduce this section:*
 
-These considerations help implement a solution that includes Dynamics 365. Learn more at [Dynamics 365 guidance documentation](/dynamics365/guidance/).
+These considerations help implement a solution that includes Dynamics 365. Learn more at [Dynamics 365 guidance documentation](https://learn.microsoft.com/dynamics365/guidance/).
 
 *Are there any lessons learned from running this that would be helpful for new customers?  What went wrong when building it out?  What went right?*
 *How do I need to think about managing, maintaining, and monitoring this long term?*
@@ -106,7 +106,7 @@ These considerations help implement a solution that includes Dynamics 365. Learn
 
 *REQUIRED STATEMENT: If using this section, include the following statement to introduce the section:*
 
-Reliability ensures your application can meet the commitments you make to your customers. For more information, see [Overview of the reliability pillar](/azure/architecture/framework/resiliency/overview).
+Reliability ensures your application can meet the commitments you make to your customers. For more information, see [Overview of the reliability pillar](https://learn.microsoft.com/azure/architecture/framework/resiliency/overview).
 
 *This includes resiliency and availability.*
 *Are there any key resiliency and reliability considerations (past the typical)?*
@@ -115,7 +115,7 @@ Reliability ensures your application can meet the commitments you make to your c
 
 *REQUIRED STATEMENT: If using this section, include the following statement to introduce the section:*
 
-Security provides assurances against deliberate attacks and the abuse of your valuable data and systems. For more information, see [Overview of the security pillar](/azure/architecture/framework/security/overview).
+Security provides assurances against deliberate attacks and the abuse of your valuable data and systems. For more information, see [Overview of the security pillar](https://learn.microsoft.com/azure/architecture/framework/security/overview).
 
 *This includes identity and data sovereignty.*
 *Are there any security considerations (past the typical) that I should know about this?* 
@@ -127,7 +127,7 @@ Security provides assurances against deliberate attacks and the abuse of your va
 
 *REQUIRED STATEMENT: Include the following statement to introduce the section:*
 
-Cost optimization is about looking at ways to reduce unnecessary expenses and improve operational efficiencies. For more information, see [Overview of the cost optimization pillar](/azure/architecture/framework/cost/overview).
+Cost optimization is about looking at ways to reduce unnecessary expenses and improve operational efficiencies. For more information, see [Overview of the cost optimization pillar](https://learn.microsoft.com/azure/architecture/framework/cost/overview).
 
 *How much will this cost to run? See if you can answer this without dollar amounts.*
 *Are there ways I could save cost?*
@@ -142,7 +142,7 @@ Cost optimization is about looking at ways to reduce unnecessary expenses and im
 
 *REQUIRED STATEMENT: If using this section, include the following statement to introduce the section:*
 
-Operational excellence covers the operations processes that deploy an application and keep it running in production. For more information, see [Overview of the operational excellence pillar](/azure/architecture/framework/devops/overview).
+Operational excellence covers the operations processes that deploy an application and keep it running in production. For more information, see [Overview of the operational excellence pillar](https://learn.microsoft.com/azure/architecture/framework/devops/overview).
 
 *How do I need to think about operating this solution? This includes DevOps, monitoring, and diagnostics.*
 
@@ -150,7 +150,7 @@ Operational excellence covers the operations processes that deploy an applicatio
 
 *REQUIRED STATEMENT: If using this section, include the following statement to introduce the section:*
 
-Performance efficiency is the ability of your workload to scale to meet the demands placed on it by users in an efficient manner. For more information, see [Performance efficiency pillar overview](/azure/architecture/framework/scalability/overview).
+Performance efficiency is the ability of your workload to scale to meet the demands placed on it by users in an efficient manner. For more information, see [Performance efficiency pillar overview](https://learn.microsoft.com/azure/architecture/framework/scalability/overview).
 
 *This includes scalability. Are there any key performance considerations (past the typical)? Are there any size considerations around this specific solution? What scale does this work at? At what point do things break or not make sense for this architecture?*
 
@@ -188,14 +188,14 @@ Performance efficiency is the ability of your workload to scale to meet the dema
 
 Examples:
 
-- [Azure Kubernetes Service (AKS) documentation](/azure/aks)
-- [Azure Machine Learning documentation](/azure/machine-learning)
-- [What are Azure Cognitive Services?](/azure/cognitive-services/what-are-cognitive-services)
-- [What is Language Understanding (LUIS)?](/azure/cognitive-services/luis/what-is-luis)
-- [What is the Speech service?](/azure/cognitive-services/speech-service/overview)
-- [What is Azure Active Directory B2C?](/azure/active-directory-b2c/overview)
-- [Introduction to Bot Framework Composer](/composer/introduction)
-- [What is Application Insights](/azure/azure-monitor/app/app-insights-overview)
+- [Azure Kubernetes Service (AKS) documentation](https://learn.microsoft.com/azure/aks)
+- [Azure Machine Learning documentation](https://learn.microsoft.com/azure/machine-learning)
+- [What are Azure Cognitive Services?](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services)
+- [What is Language Understanding (LUIS)?](https://learn.microsoft.com/azure/cognitive-services/luis/what-is-luis)
+- [What is the Speech service?](https://learn.microsoft.com/azure/cognitive-services/speech-service/overview)
+- [What is Azure Active Directory B2C?](https://learn.microsoft.com/azure/active-directory-b2c/overview)
+- [Introduction to Bot Framework Composer](https://learn.microsoft.com/composer/introduction)
+- [What is Application Insights](https://learn.microsoft.com/azure/azure-monitor/app/app-insights-overview)
 
 ## Related resources
 
@@ -203,15 +203,15 @@ Examples:
 
 This solution is a generalized architecture pattern, which can be used for many different scenarios and industries. See the following example solutions that build off of this core architecture:
 
-- [Link to first solution idea or other architecture that builds off this solution](filepath.yml)
-- [Second solution idea that builds off this solution](filepath.yml)
+- [Link to first solution idea or other architecture that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
+- [Second solution idea that builds off this solution](https://learn.microsoft.com/dynamics365/guidance/placeholder)
 
 *Include additional links to Dynamics 365 or Power Platform guidance, or Azure Architecture Center articles. Here is an example:*
 
 See the following related architecture guides and solutions:
 
-- [Artificial intelligence (AI) - Architectural overview](/azure/architecture/data-guide/big-data/ai-overview)
-- [Choosing a Microsoft cognitive services technology](/azure/architecture/data-guide/technology-choices/cognitive-services)
-- [Chatbot for hotel reservations](/azure/architecture/example-scenario/ai/commerce-chatbot)
-- [Build an enterprise-grade conversational bot](/azure/architecture/reference-architectures/ai/conversational-bot)
-- [Speech-to-text conversion](/azure/architecture/reference-architectures/ai/speech-ai-ingestion)  
+- [Artificial intelligence (AI) - Architectural overview](https://learn.microsoft.com/azure/architecture/data-guide/big-data/ai-overview)
+- [Choosing a Microsoft cognitive services technology](https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/cognitive-services)
+- [Chatbot for hotel reservations](https://learn.microsoft.com/azure/architecture/example-scenario/ai/commerce-chatbot)
+- [Build an enterprise-grade conversational bot](https://learn.microsoft.com/azure/architecture/reference-architectures/ai/conversational-bot)
+- [Speech-to-text conversion](https://learn.microsoft.com/azure/architecture/reference-architectures/ai/speech-ai-ingestion)  
